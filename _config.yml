@@ -3,7 +3,7 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate,jekyll-feed]
 paginate: 5
 paginate_path: "page:num"
 
@@ -29,7 +29,16 @@ author:
 # Custom vars
 version:             1.0.0
 
-
+# Archives
+jekyll-archives:
+  enabled: all
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 
 
