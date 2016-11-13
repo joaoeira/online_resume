@@ -1,7 +1,6 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
 
 gems: [jekyll-paginate]
 paginate: 5
@@ -16,8 +15,8 @@ kramdown:
 title:               Lettuce be Cereal
 tagline:             ''
 description:         'Lettuce be Cereal - Being the blog of João Eira'
-#url:                 https://joaoeira.github.io
-baseurl:             ''
+#url:                 "https://joaoeira.github.io"
+baseurl:             ""
 paginate:            5
 
 # About/contact
@@ -28,5 +27,9 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+
+
+
 
 
