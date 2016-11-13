@@ -7,10 +7,15 @@ gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 # Setup
 title:               Lettuce be Cereal
 tagline:             ''
-description:         ''
+description:         'Lettuce be Cereal - Being the blog of João Eira'
 url:                 http://joaoeira.com
 baseurl:             ''
 paginate:            5
@@ -23,3 +28,5 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+
