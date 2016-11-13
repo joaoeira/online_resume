@@ -16,7 +16,7 @@ kramdown:
 title:               Lettuce be Cereal
 tagline:             ''
 description:         'Lettuce be Cereal - Being the blog of João Eira'
-url:                 http://joaoeira.com
+url:                 http://joaoeira.github.io
 baseurl:             ''
 paginate:            5
 
