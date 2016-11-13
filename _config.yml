@@ -7,10 +7,7 @@ gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
 
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+markdown: maruku
 
 # Setup
 title:               Lettuce be Cereal
