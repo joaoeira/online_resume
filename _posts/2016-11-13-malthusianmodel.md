@@ -42,3 +42,4 @@ $$y_t = \frac{Y_t}{L_t} =\left (\frac{AX}{L_t}\right )^\alpha$$
 
 
 [^a]:If you've not encountered the word exogeneous before, it means that it is determined externally from the model. In this case, the land available to grow wheat is determined by geological processes, and it's largely outside human influence.
+
