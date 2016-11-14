@@ -35,6 +35,7 @@ print "Do the exercise number", exercises[a][b], "from ->", material[a]
 The result ends up like this:
 
 ```
+$python interleavingscript.py
 Do the exercise number 3 from -> capitulo 11 do livro
 ```
 
