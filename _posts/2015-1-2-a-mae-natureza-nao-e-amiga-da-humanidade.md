@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A mãe natureza não é amiga da humanidade
+category: Portuguese
+tags: [Artigos, Environmentalism]
 ---
 
 

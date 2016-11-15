@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Senteces to ponder"
+category: Thoughts
+tags: [Sentences to ponder]
 --- 
 
 From [Scott Bakker's](https://www.amazon.com/R.-Scott-Bakker/e/B004MUD7NQ/ref=sr_ntt_srch_lnk_1?qid=1479051588&sr=8-1) essay, ["The Future of Literature in the Age of Information"](https://rsbakker.wordpress.com/essay-archive/the-future-of-literature-in-the-age-of-information/):

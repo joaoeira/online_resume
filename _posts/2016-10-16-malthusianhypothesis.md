@@ -1,6 +1,8 @@
 ---
 layout: post
 title: What's the Malthusian argument?
+category: Economics
+tags: [Malthusian Dynamics, Economics]
 ---
 
 One of the things that fascinates me is thinking about why the world didn't experience *The Great Divergence*, the remarkable exponential growth in living standards following the Industrial Revolution, sooner. Another way of putting it is by questioning why living standards in the world economy remained remarkably stagnant during the epoch preceding the Industrial Revolution, especially when you consider that the main characteristics we usually associate with the success of our species, e.g, our intelligence, opposable thumbs, high degree of cooperation, etc., didn't fundamentally change from the times of Jesus Christ to today. 

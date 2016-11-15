@@ -1,6 +1,8 @@
 ---
 layout: post
 title: An even simpler way to add interleaving to your studies
+category: Psychology
+tags: [Cognitive Psychology, Learning, Tips]
 ---
 
 In a previous post I shared a simple script you could use to add interleaving to your studies. I made a passing remark that there's no need to overengineer your script and some time after having published the post I realized something: The script itself is overengineered.

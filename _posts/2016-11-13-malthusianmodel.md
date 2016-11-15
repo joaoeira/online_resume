@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A model of the Malthusian argument
+category: Economics
+tags: [Malthusian Dynamics, Economics]
 ---
 
 Economists love mathematical models, and with good reason: it forces one to be consistent. 

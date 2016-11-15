@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Tomar um comprimido e ficar um génio. Porque não?
+category: Portuguese
+tags: [Artigos, Human enhancement]
 ---
 
 _This article, in Portuguese, was written sometime in 2015 for Resistance Magazine. It's basically a rehash of Nick Bostrom's [cognitive enhancement and ethics paper](http://www.nickbostrom.com/cognitive.pdf) and today I would write it a bit differently because it came out too stiff._

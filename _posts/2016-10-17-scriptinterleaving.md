@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A simple way to add interleaving to your studies
+category: Psychology
+tags: [Cognitive Psychology, Learning, Tips]
 ---
 
 The gist of interleaved practice is that you're better off by switching between topics during your study session than you would be if you were to study one thing, then move on to another.
