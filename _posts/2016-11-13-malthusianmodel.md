@@ -19,7 +19,7 @@ If the amount of bread our economy produces is determined by how much land and l
 
 $$Y_t = (AX)^\alpha L_t^{1-\alpha} \qquad  0 < \alpha < 1$$
 
-Where \\( X \\) is land, \\(L_t\\) is labor, and \\( A \\) is the technological level; \\( \alpha \\) is the output elasticity of land.
+Where \\( X \\) is land, \\(L_t\\) is labor, and \\( A \\) is the technological level; \\( \alpha \\) is the output elasticity of land, which measures how much more bread you can make by adding one more unit of land.
 
 This production function has some interesting characteristics that function well in the context of agriculture, namely that the output displays constant returns to scale, that is, an equal increase in *both* inputs used implies an equal increase in output.
 
@@ -31,7 +31,7 @@ $$ \frac{\partial Y}{\partial X} = \alpha A^\alpha X^{\alpha -1} L_t^{1-\alpha} 
 
 $$ \frac{\partial Y}{\partial L_t} = (1-\alpha) (AX)^\alpha L_t^{-\alpha}  \rightarrow \frac{\partial^2 Y}{\partial L_t^2} < 0 $$
 
-Usually, in the Cobb-Douglas function, the productivity factor, \\( A \\) isn't to the power of \\( \alpha \\), as in the Solow Model, but since the productivity here is inherently connected to the land being used, it doesn't make much sense to talk about the output elasticity of land while leaving its productivity constant since not all land is equal, and it is the case that the most productive land is the first being used. That's another reason why you get diminishing returns to increased land use.
+Usually, in the Cobb-Douglas function, the productivity factor, \\( A \\) isn't to the power of \\( \alpha \\), as in the Solow Model, but since the productivity here is inherently connected to the land being used, it doesn't make much sense to talk about the output elasticity of land while leaving its productivity constant since not all land is equal, and it is the case that the most productive land is the first being used. That's another reason why you get diminishing returns to increased land use. 
 
 You can also get output per worker at time \\( t \\) by dividing \\( Y_t\\) by the number of workers, \\( L_t \\):
 
@@ -42,4 +42,6 @@ $$y_t = \frac{Y_t}{L_t} =\left (\frac{AX}{L_t}\right )^\alpha$$
 
 
 [^a]:If you've not encountered the word exogeneous before, it means that it is determined externally from the model. In this case, the land available to grow wheat is determined by geological processes, and it's largely outside human influence.
+
+
 
