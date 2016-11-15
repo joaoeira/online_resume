@@ -14,8 +14,8 @@ kramdown:
 
 # Setup
 title:               Lettuce be Cereal
-tagline:             ''
-description:         'Lettuce be Cereal - Being the blog of João Eira'
+tagline:             'Blog
+description:         'Lettuce be Cereal'
 #url:                 "https://joaoeira.github.io"
 baseurl:             ""
 paginate:            5
