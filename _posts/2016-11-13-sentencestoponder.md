@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Senteces to ponder"
+title: "Senteces to ponder (13/11/2016)"
 category: Thoughts
 tags: [Sentences to ponder]
 --- 
@@ -14,6 +14,8 @@ Recommended.
 Interesting to note how the current debate on bubbles and how Trump got to President is exactly mirrored here. Even the science fiction & fantasy community has its own microcosm of the problem, as envinced by the *Sad Puppies vs True Fans* meltdown. 
 
 Of course, in true Hegelian fashion, the Rabid Puppies represent the synthesis of those problems, as does Trump. 
+
+
 
 
 
