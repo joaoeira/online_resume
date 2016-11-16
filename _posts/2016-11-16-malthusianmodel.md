@@ -40,10 +40,30 @@ You can also get output per worker at time \\( t \\) by dividing \\( Y_t\\) by t
 
 $$y_t = \frac{Y_t}{L_t} =\left (\frac{AX}{L_t}\right )^\alpha$$
 
+**Preferences and Budget Constraints** 
 
+We're going to make a number of simplifying assumptions about demographics here that shouldn't impact the implications of our model. In each period \\(t\\), \\(L_t\\) identical individuals joins the workforce; a new generation of workers. Each individual has a single parent and live for two periods. In their first period, \\(t-1\\), they are supported by their parent, that is, they're a child. In their second period, \\(t\\), they enter adulthood as such will supply their labor, generating an income equal to the output per worker we saw earlier, \\(y_t\\). That income will be then allocated between their own consumption and that of their children. Choices about allocation of limited resources necessitate some way of conceptualizing the benefits arising from each choice, which in Economics is *utility*.
 
+Individuals generate utility from consumption and the number of their children:
+
+$$u^t = (c_t)^{1-\gamma}(n_t)^\gamma; \qquad \gamma \in (0,1)$$
+
+Where \\(c_t\\) is own consumption and \\(n_t\\) is the number of children of the individual. Because resources are limited, there are constraints in how much we can consume AND how much our children can consume. If \\( \rho \\) is the cost of raising a child:
+
+$$\rho n_t + c_t \leq y_t$$
+
+is our budget constraint.
+
+Now that we have our utility function along with our budget constraint, we will need to maximize the first taking into account the second in order to get each household's optimal allocation. However, since we're using a Cobb-Douglas function, we know straight away[^b]that the each household will devote a fraction \\(1-\gamma \\) of their income to consumption and \\( \gamma \\) to child reading:
+
+$$ c_t = (1 - \gamma )y_t$$ 
+
+$$ n_t = \gamma \frac{y_t}{\rho}$$
+
+Finito, we now have a model for the Malthusian model to work with. The next post in this series will deal with the dynamics of our model, namely, how income and population are interrelated. We have already seen that they must indeed be interrelated since as income rises, the number of surviving children must rise as well, according to our model. 
 
 [^a]:If you've not encountered the word exogeneous before, it means that it is determined externally from the model. In this case, the land available to grow wheat is determined by geological processes, and it's largely outside human influence.
 
+[^b]:I'll have a post soon how this can be shown mathematically because it isn't that obvious if you haven't used a Cobb-Douglas function before.
 
 
