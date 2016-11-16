@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Senteces to ponder (13/11/2016)"
+title: "Senteces to ponder (13-11-2016)"
 category: Thoughts
 tags: [Sentences to ponder]
 --- 
