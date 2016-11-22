@@ -60,7 +60,7 @@ $$ c_t = (1 - \gamma )y_t$$
 
 $$ n_t = \gamma \frac{y_t}{\rho}$$
 
-Finito, we now have a model for the Malthusian model to work with. The next post in this series will deal with the dynamics of our model, namely, how income and population are interrelated. We have already seen that they must indeed be interrelated since as income rises, the number of surviving children must rise as well, according to our model. 
+Finito, we now have a model for the Malthusian model to work with. The next post in this series will deal with the dynamics of our model, namely, how income and population are interrelated. We have already seen that they must indeed be interrelated since as income rises, the number of surviving children must rise as well.
 
 [^a]:If you've not encountered the word exogeneous before, it means that it is determined externally from the model. In this case, the land available to grow wheat is determined by geological processes, and it's largely outside human influence.
 
