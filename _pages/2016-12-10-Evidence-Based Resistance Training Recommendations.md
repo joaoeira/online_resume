@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Evidence Based Resistance Training Recommendations"
 category: Research
 tags: [Research,Notes,Exercise]
@@ -11,7 +11,7 @@ tags: [Research,Notes,Exercise]
 We recommend that appreciably the same muscular strength and endurance adaptations can be attained by performing a single set of ~8-12 repetitions to momentary muscular failure, at a repetition duration that maintains muscular tension throughout the entire range of motion, for most major muscle groups once or twice each week. All resistance types (e.g.free-weights, resistance machines, bodyweight, etc.) show potential for increases in strength, with no significant difference between them, although resistance machines appear to pose a lower risk of injury.
 
 -   Intensity
-    -   Persons should train until momentary mu-scular failure to actively recruit all of the available motor units and muscle fibres, as opposed to a pre-determined number ofrepetitions.
+    -   Persons should train until momentary muscular failure to actively recruit all of the available motor units and muscle fibres, as opposed to a pre-determined number ofrepetitions.
 
 -   Load and Repetition Range
     -   Persons should self-select a weight >80%1RM and perform repetitions to failure.Evidence suggests this is optimal for maximising strength and muscular endurance gains, whilst helping to improve bone mineral density.
