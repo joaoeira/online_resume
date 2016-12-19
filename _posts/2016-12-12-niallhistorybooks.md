@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Periods of History Niall Fergusson Thinks You Should Learn About
+title: The Periods of History Niall Ferguson Thinks You Should Learn About
 Categories: Administrative
 ---
 
