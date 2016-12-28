@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Periods of History Niall Ferguson Thinks You Should Learn About
-Categories: Administrative
+Categories: History
+tags: [History, Books]
 ---
 
 Niall Ferguson, in his recent lecture [*The Decline and Fall of History*](https://www.youtube.com/watch?v=7WXNF6Vy07A), when talking about the intellectual paucity of current history major's course offerings, lists the periods of history he submits should not be omitted in one's education. I figured it would be helpful to have a list of books covering those topics for me to go through so I am sharing the list I've come up with.. 
