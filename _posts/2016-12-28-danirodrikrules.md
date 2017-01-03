@@ -6,7 +6,8 @@ tags: [Economics, Advice]
 ---
 
 
-Ten Commandments for Economists 
+**Ten Commandments for Economists**: 
+
 1. Economics is a collection of models; cherish their diversity. 
 
 2. It’s a model, not the model. 
@@ -31,7 +32,7 @@ Ten Commandments for Economists
 10. Substituting your values for the public’s is an abuse of your
     expertise. 
 
-Ten Commandments for Noneconomists 
+**Ten Commandments for Noneconomists**: 
 
 1. Economics is a collection of models with no predetermined
    conclusions; reject any arguments otherwise. 
