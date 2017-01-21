@@ -5,7 +5,7 @@ category: Thoughts
 tags: [Sentences to ponder]
 --- 
 
-In the previous post on the Malthusian model series I promised I would write a short note on how to derive the constant shares for both labor and capital from the Cobb-Douglas production function, so here it is:
+In the [previous post](http://lettucebecereal.com/economics/2016/11/16/malthusianmodel/) on the Malthusian model series I promised I would write a short note on how to derive the constant shares for both labor and capital from the Cobb-Douglas production function, so here it is:
 
 We start with the usual Cobb-Douglas production function
 
