@@ -23,7 +23,7 @@ The way all those aspects interact to determine where people live is obviously c
 - Suitability of a region to grow food
 - Suitability of a region for engaging in national and international trade
 
-It has problably been done but I would like to see, as the authors use luminosity data, someone use topological data to see what they can find about city distribution. Something tells me early aggregators, like Europe, will have cities in hills and other such high places, e.g. Lisbon, the City of Seven Hills (I did not know [how many cities laid claim to that title!](https://en.wikipedia.org/wiki/List_of_cities_claimed_to_be_built_on_seven_hills))
+It has probably been done but I would like to see, as the authors use luminosity data, someone use topological data to see what they can find about city distribution. Something tells me early aggregators, like Europe, will have cities in hills and other such high places, e.g. Lisbon, the City of Seven Hills (I did not know [how many cities laid claim to that title!](https://en.wikipedia.org/wiki/List_of_cities_claimed_to_be_built_on_seven_hills))
 
 In the past:
 - Lower agricultural productivity
