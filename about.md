@@ -5,12 +5,15 @@ title: About
 
 <p class="message">
 
-My academic website can be found at <a href="www.joaoeira.com"> www.joaoeira.com </a>
-
+“Any fool can see the limits of seeing, but not even the wisest know the limits of knowing. Thus is ignorance rendered invisible, and are all Men made fools.” ― R. Scott Bakker, The White Luck Warrior
 </p>
 
-My name is João Eira and I am a Master's student of Economics at University of Coimbra. I was previously a Baschelor's student of Physics at the same univerisity. 
+Welcome to my blog, whoever you are.
 
-My interests lie in the determinants of economic growth, in particular the historical circunstances that led to the Great Divergence. I also put considerable effort into getting up to speed with the literature in the fields of cultural evolution and social and moral psychology, with the belief that human beings are more complex and capricious than the usual economic models would led us to believe. As a sort of academic hobby I like to learn more about cognitive psychology and neuroscience, thinking that this three pound thing inside our craniums is one of the most interesting things one can study.
+My name is João Eira, of Portuguese descent. You likely can't say the word "João", but don't worry about it. Online I usually can be found going by the name moniker Simbyotic. I have a broad range of interests, as my Bachelors in Physics and Masters in Economics can likely attest to. I take an unhealthy amount of pride in casting a wide net over the Internet to pull from it the most interesting content, to me.
 
-You can find me online at [@joaoeira](https://www.twitter.com/joaoeira).
+I devour articles, and try to devour books, and while there is something to the "jack of all trades, master of none" saying, I find it way more fun to switch subjects of interest regularly than keep hammering away at a particular topic. Again, my choice of subject in college does attest to this.
+
+I hope you find something of interest in my blog. If you think I am wrong about something, people do tell :)
+
+You can find on twitter at [@joaoeira](https://www.twitter.com/joaoeira).
