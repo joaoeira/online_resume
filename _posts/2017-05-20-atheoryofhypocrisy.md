@@ -46,6 +46,6 @@ So this free rider problem gave rise to at least two different modules. One is t
 
 I hypothesize one would find a concept similar to hypocrisy in every culture. Perhaps those studying [cultural evolution](https://www.edge.org/conversation/joseph_henrich-how-culture-drove-human-evolution) can tell me if I'm wrong or not, but I find it hard to imagine that other cultures wouldn't have some variation on the idea of hypocrisy as a cultural concept to identify free riders, and thus labeled as wrong to ensure full cooperation. It seems to me that this has the qualities necessary to pass on through the generations as something that increases group fitness (of course there might be other ways to solve this problem, hypocrisy is just one of them, and not a costly one at that.)
 
-This theory of mine also explains why each one of us recognizes that hypocrisy is bad, and yet still do it from time to time. It pays to be an hypocrite. If no one finds out.    
+This theory of mine also explains why each one of us recognizes that hypocrisy is bad, and yet still engage in it from time to time. It pays to be an hypocrite. If no one finds out.    
 
 *I haven't read [Robert Kurzban's Why Everyone (Else) is a Hypocrite](http://press.princeton.edu/titles/9271.html). I wouldn't be surprised if it includes something similar to the theory here presented, or a much better one at that*
