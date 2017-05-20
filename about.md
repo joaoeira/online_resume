@@ -10,9 +10,9 @@ title: About
 
 Welcome to my blog, whoever you are.
 
-My name is João Eira, of Portuguese descent. You likely can't say the word "João", but don't worry about it. Online I usually can be found going by the name moniker Simbyotic. I have a broad range of interests, as my Bachelors in Physics and Masters in Economics can likely attest to. I take an unhealthy amount of pride in casting a wide net over the Internet to pull from it the most interesting content, to me.
+My name is João Eira, of Portuguese descent. You likely can't say the word "João", but don't worry about it. I have a broad range of interests, as my Bachelors in Physics and Masters in Economics can likely attest to.
 
-I devour articles, and try to devour books, and while there is something to the "jack of all trades, master of none" saying, I find it way more fun to switch subjects of interest regularly than keep hammering away at a particular topic. Again, my choice of subject in college does attest to this.
+I devour articles, and try to devour books, and while there is something to the "jack of all trades, master of none" saying, I find it way more fun to switch subjects of interest regularly than keep hammering away at a particular topic. Again, my choice of subject in college does attest to this. Conclude from that what you will. 
 
 I hope you find something of interest in my blog. If you think I am wrong about something, people do tell :)
 

@@ -21,6 +21,7 @@
 
       <div class="container content">
         {{ content }}
+        {% include disqus.html %} <!-- Disqus comments -->
       </div>
     </div>
 
@@ -43,5 +44,7 @@
         }, false);
       })(document);
     </script>
+    {% include analytics.html %}  <!-- Google analytics -->
+
   </body>
 </html>
