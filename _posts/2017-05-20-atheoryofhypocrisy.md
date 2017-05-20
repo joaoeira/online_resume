@@ -6,7 +6,7 @@ comments: true
 tags: [Cultural Evolution, Ideas]
 ---
 
-Joe, Bea, and Greg need to decorate the tent for the big party later that night. Joe is doing his share of the work, but when he looks over his shoulder he sees Bea and Greg sharing a beer and having a good time. Joe is pissed.
+Joe, Bea, and Greg need to decorate the tent for the big party later that night. Joe is doing his share of the work, but when he looks over his shoulder he sees Bea and Greg drinking a beer and having a good time. Joe is pissed.
 
 "Hey you too, do you expect me to all of this by myself?"
 
