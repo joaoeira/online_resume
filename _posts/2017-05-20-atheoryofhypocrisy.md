@@ -12,31 +12,31 @@ Joe, Bea, and Greg need to decorate the tent for the big party later that night.
 
 "Relax", Bea says, "we've got time."
 
-"People are due to arrive in 2 hours and we still have all of this to hang to the ceiling. If you guys don't start helping me do this I will quit and the party will suck"
+"People are due to arrive in 2 hours and we still have all of this to hang from the ceiling. If you guys don't start helping me do this I'll quit and the party will suck."
 
-"Fine Joe, jeez, you can be such an hard-ass sometimes."
+"Fine Joe, jeez, you can be such a hardass sometimes."
 
-And Bea and Greg start doing their fair share of the work. Soon however, Greg notices something funny.
+Bea and Greg start doing their fair share of the work. Soon however, Greg notices something.
 
 "Hey Bea, have you seen Joe?"
 
-"I think he's out back"
+"I think he's out back."
 
 Greg finds Joe sitting in a chair playing with his phone.
 
-"Can't believe this, you lecture us about doing our work and yet here you are. Hypocrite."
+"Can't believe this. You lecture us about doing our work and yet here you are like it's nothing. Hypocrite."
 
 The party was a success
 
 -------
 
-By definition, an hypocrite is someone who acts in contradiction to his stated beliefs. Joe is an hypocrite. He scolded Bea and Greg for not doing their fair share of the work yet, after getting them to work, he decided that the rules didn't apply to him and went playing with his phone.
+By definition, an hypocrite is someone who acts in contradiction to his stated beliefs. Joe is an hypocrite. He scolded Bea and Greg for not doing their fair share of the work yet, after getting them to work, he decided that the rules didn't apply to him.
 
 Each one of us can recognize an hypocrite, and each one of us can be, or has been, an hypocrite. That this behavior, and our capability to identify it, seems universal fascinates me.
 
-Human behavior doesn't exist in a vacuum. Everyone who has read a little bit of evolutionary psychology knows that. Some behaviors arise from evolutionary pressures to ensure our ability to be successful, in evolutionary terms, despite those constraints. An example would be how the differing burdens of siring a child in males and females shaped the mating strategies of each sex.
+Human behavior doesn't exist in a vacuum. Everyone who has read a little bit of evolutionary psychology knows that. Some behaviors arise from evolutionary pressures to ensure our success, in evolutionary terms, despite those constraints. An example would be how the differing burdens of siring a child in males and females shaped the mating strategies of each sex.
 
-I hypothesize hypocrisy was woven from the same evolutionary cloth. Our success as a species was due to our ability to cooperate in large groups, and one problem that must be solved to sustain large-scale cooperation is the free rider problem. A free rider problem arises when an individual benefits from the resources and goods that a group is able to procure without having contributed to it. This poses a problem for cooperation because if everyone decides to coast on the backs of others, then nothing gets done. Developing solutions that bring the number of free riders to sustainable levels is of paramount importance to any group if it is to be successful.
+I hypothesize hypocrisy was woven from the same evolutionary cloth. Our success as a species was due to our [ability to cooperate in large groups](https://www.amazon.com/Ultrasociety-Years-Humans-Greatest-Cooperators-ebook/dp/B0185P69LU/ref=sr_1_4?ie=UTF8&qid=1495313617&sr=8-4&keywords=peter+turchin), and one problem that must be solved to sustain large-scale cooperation is the free rider problem. A free rider problem arises when an individual benefits from the resources and goods that a group is able to procure without having contributed to it. This poses a problem for cooperation because if everyone decides to coast on the backs of others, then nothing gets done. Developing solutions that bring the number of free riders to sustainable levels is of paramount importance to any group if it is to be successful.
 
 Yet the needs of the group can indeed be different from those of the individuals. The free rider problem exists precisely because it is advantageous for the individual to not put in the work and still get the rewards. Why risk your life bringing a mammoth down? The others can do it without you and you still get to eat. You can't beat that. Yet the individual must make sure that the group goes through with the motions that get the reward. No one's getting any mammoth if no one goes out to kill him.
 
