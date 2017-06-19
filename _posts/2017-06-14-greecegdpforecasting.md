@@ -6,7 +6,7 @@ comments: true
 tags: [Time Series Analysis, Forecasting, Machine Learning]
 ---
 
-During this semester I took a class on Forecasting to get a better understanding of how to do time series analysis and better grasp forecasting methodologies. For the final project the goal was to pick a country and forecast its GDP for the year of 2017. I picked Greece because it seemed an interesting country for this type of project given its recent history. The reasons behind it are beyond the scope of this post and the project, but it will suffice to say that Greece hasn't exactly been the most stable of economies, and that lack of stability was what drew me to choose it. 
+During this semester I took a class on Forecasting to get a better understanding of how to do time series analysis and better grasp forecasting methodologies. For the final project the goal was to pick a country and forecast its GDP for 2017. I picked Greece because it seemed an interesting country for this type of project given its recent history. The reasons behind it are beyond the scope of this post and the project, but it will suffice to say that Greece hasn't exactly been the most stable of economies, and that lack of stability was what drew me to choose it. 
 
 # Data
 
@@ -18,7 +18,7 @@ We'll start by looking at the data that we got:
 
 ![realgdp]({{site.url}}/assets/forecastgreece/realgdp.png)
 
-It's obvious that by around 2009 Greece's Real GDP started experiencing a downfall that seems to have petered out by 2012 and has largely stayed constant until now. We could decompose this time series into a trend and a seasonal component using STL decomposition, or even applying a Hodrick-Prescott filter, but I don't think it would give us more information that we already get by just looking at the plot above.
+It's obvious that by around 2009 Greece's Real GDP started experiencing a downfall that seems to have petered out by 2012 and has largely stayed constant since. We could decompose this time series into a trend and a seasonal component using STL decomposition, or even applying a Hodrick-Prescott filter, but I don't think it would give us more information that we already get by just looking at the plot above.
 
 A good starting point for a forecasting project is to transform the data by applying a Box-Cox transformation to stabilize the seasonal variation. A Box-Cox transformation is a class of transformations that is defined by:
 
@@ -60,7 +60,7 @@ There are plenty of different models we could use but how do we go about selecti
 
 ## Exponential Smoothing
 
-Exponential Smoothing methods are fairly standard forecasting tools. If we consider different combinations of the trend and seasonal components of a time series, we can work out fifteen exponential smoothing models that we can use. If we take into account that each of these can be further subdivided between a verison with an additive error component and another with a multiplicative one, we end up with 30 models in total to consider.
+Exponential Smoothing methods are fairly standard forecasting tools. If we consider different combinations of the trend and seasonal components of a time series, we can work out fifteen exponential smoothing models that we can use. If we take into account that each of these can be further subdivided between a version with an additive error component and another with a multiplicative one, we end up with 30 models in total to consider.
 
 To calculate the out of sample RMSE and MAE for each model I use a cross validation setting with a forecasting horizon of h=4, or 4 quarters, and this setting will be used for all models that allow for a cross validation calculation of error measures.
 
@@ -140,7 +140,7 @@ With the following predicted values:
 Since the provisional data for the 1st quarter of 2017 is 42827.3, we can be optimistic that our model actually does provide us with good forecasts for Greece's Real GDP. It is entirely possible that this is a fluke, or good fortune, so I will update it further as data for the following quarters are released to see if the model's good performance holds up.
 # Conclusion
 
-This was my first foray into time series analysis/forecasting, and I enjoyed it more than I thought I would. To be sure, there's bound to be some errors here that I didn't catch, some intricacie of the forecasting process that have yet to learn. If you know what that is, please do tell as I want to get better at this.
+This was my first foray into time series analysis/forecasting, and I enjoyed it more than I thought I would. To be sure, there's bound to be some errors here that I didn't catch, some intricacie of the forecasting process that I have yet to learn. If you know what that is, please do tell as I want to get better at this.
 
 Still, given the results I got, I would say this project was a success. 
 
