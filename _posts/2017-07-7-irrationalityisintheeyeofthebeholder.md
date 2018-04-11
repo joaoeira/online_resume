@@ -16,6 +16,8 @@ Now lets introduce introduce some context. Let’s call that person Doug. Doug h
 
 Now, let’s ask the question again: Is Doug’s eating of that croissant irrational on his part?
 
+<!--more-->
+
 Context is everything, and it doesn’t come readily for those looking outside-in. I was motivated to think on this upon reading the following quote from Meir Statman’s [Finance or Normal People: How Investors and Markets Behave](https://www.amazon.com/Finance-Normal-People-Investors-Markets/dp/019062647X/ref=sr_1_1?ie=UTF8&qid=1499422548&sr=8-1&keywords=Finance+for+Normal+People%3A+How+Investors+and+Markets+Behave):
 
 > Consider a person with debt balances on two credit cards. The debt on the first is large and its interest rate is high, whereas the debt on the second is small and its interest rate is low. Now suppose that the person has cash sufficient to fully extinguish the small debt on the low-interest card but not sufficient to fully extinguish the large debt on the high-interest card. Wants for utilitarian benefits direct that person to reduce the debt balance on the high-interest card. Indeed, we might regard a decision to extinguish the debt on the low-interest card as a cognitive or emotional error. Yet it is not, because sacrificing short-term utilitarian benefits by extinguishing the debt of the low-interest card might enhance long-term utilitarian benefits. The expressive and emotional benefits of the small victory that comes with fully extinguishing the small low-interest debt balance might encourage a person to persevere in extinguishing the large high-interest debt.

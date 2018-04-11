@@ -1,0 +1,15 @@
+<footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:contact@joaoeira.com"><span class="icon-mail"></span></a></li>    
+    {% for entry in site.data.social %}
+      <li>
+        <a href="{{ entry.link }}"><span class="{{ entry.icon }}"></span></a>
+      </li>
+    {% endfor %}  
+  </ul>
+<div class="credits">
+<span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;{{"João Eira" }}</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>

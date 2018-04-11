@@ -10,6 +10,8 @@ Niall Ferguson, in his recent lecture [*The Decline and Fall of History*](https:
 
 Note that I have not read any of these, I am choosing based solely on whether they look authoritative, have been recommended by someone who's judgment I trust, or appear in the r/AskHistorians book list.
 
+<!--more-->
+
 * Any period of British history
 <center><a href = "https://www.amazon.com/English-Their-History-Robert-Tombs/dp/1101874767" >The English and Their History by Robert Tombs </a></center>
 

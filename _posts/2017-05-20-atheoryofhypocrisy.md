@@ -27,12 +27,15 @@ Greg finds Joe sitting in a chair playing with his phone.
 "Can't believe this. You lecture us about doing our work and yet here you are like it's nothing. Hypocrite."
 
 The party was a success
+<!--more-->
 
 -------
 
 By definition, an hypocrite is someone who acts in contradiction to his stated beliefs. Joe is an hypocrite. He scolded Bea and Greg for not doing their fair share of the work yet, after getting them to work, he decided that the rules didn't apply to him.
 
 Each one of us can recognize an hypocrite, and each one of us can be, or has been, an hypocrite. That this behavior, and our capability to identify it, seems universal fascinates me.
+
+
 
 Human behavior doesn't exist in a vacuum. Everyone who has read a little bit of evolutionary psychology knows that. Some behaviors arise from evolutionary pressures to ensure our success, in evolutionary terms, despite those constraints. An example would be how the differing burdens of siring a child in males and females shaped the mating strategies of each sex.
 
