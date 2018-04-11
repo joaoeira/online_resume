@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lettuce Be Cereal</title>
+    <description>A Jekyll theme for content-rich sites</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 11 Apr 2018 09:39:16 -0400</pubDate>
+    <lastBuildDate>Wed, 11 Apr 2018 09:39:16 -0400</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>(Ir)rationality is in the Eye of the Beholder</title>
+        <description>&lt;p&gt;What does it mean for a behavior or choice to be irrational?&lt;/p&gt;
+
+&lt;p&gt;A simple example: a person is given the choice between receiving one or two dollars and chooses to receive one dollar. Was her choice irrational? Common sense dictates that it was. Now a more difficult one: An overweight person has decided that he wants to lose weight and you see him eating a chocolate croissant. Is this behavior on that person’s part irrational?&lt;/p&gt;
+
+&lt;p&gt;This second example is much more nuanced than the first one. For starters, it’s not clinical. In the first example you know all there is to know about that person’s situation, that she has two possibilities with one being objectively better than the other and yet not choosing it. In the second example, you only know that that person wants to lose weight but the context behind his eating the croissant is lost on you. I imagine most people would say that that person’s behavior is irrational since it goes against his stated goal. You just don’t eat chocolate croissants if you want to lose weight. So let’s put a tentative answer: Eating a chocolate croissant if you want to lose weight is irrational.&lt;/p&gt;
+
+&lt;p&gt;Now lets introduce introduce some context. Let’s call that person Doug. Doug has been on a new diet for three weeks. The nitty gritty details about his diet are irrelevant, what matters is that the diet represents a big change in his eating behaviors and every day Doug must be mindful that he cannot slip back into his previous habits. His goal truly is to lose weight. Yet, on Sundays, he eats chocolate croissants for breakfast. You see, Doug allows himself to cheat on Sundays. It’s all part of his plan to lose weight. The idea behind his decision is that by allowing himself to eat chocolate croissants on Sundays he won’t be craving them throughout the week, or at least he’ll know that come Sunday his cravings will be fulfilled. And you know what? It’s working. He really is sticking to his diet, not only on Sundays but throughout the week. It might be that the croissants are just an excuse to pig out on unhealthy food, but they don’t seem to be hindering his weight loss journey.&lt;/p&gt;
+
+&lt;p&gt;Now, let’s ask the question again: Is Doug’s eating of that croissant irrational on his part?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Context is everything, and it doesn’t come readily for those looking outside-in. I was motivated to think on this upon reading the following quote from Meir Statman’s &lt;a href=&quot;https://www.amazon.com/Finance-Normal-People-Investors-Markets/dp/019062647X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1499422548&amp;amp;sr=8-1&amp;amp;keywords=Finance+for+Normal+People%3A+How+Investors+and+Markets+Behave&quot;&gt;Finance or Normal People: How Investors and Markets Behave&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Consider a person with debt balances on two credit cards. The debt on the first is large and its interest rate is high, whereas the debt on the second is small and its interest rate is low. Now suppose that the person has cash sufficient to fully extinguish the small debt on the low-interest card but not sufficient to fully extinguish the large debt on the high-interest card. Wants for utilitarian benefits direct that person to reduce the debt balance on the high-interest card. Indeed, we might regard a decision to extinguish the debt on the low-interest card as a cognitive or emotional error. Yet it is not, because sacrificing short-term utilitarian benefits by extinguishing the debt of the low-interest card might enhance long-term utilitarian benefits. The expressive and emotional benefits of the small victory that comes with fully extinguishing the small low-interest debt balance might encourage a person to persevere in extinguishing the large high-interest debt.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Again, context is everything. Classifying another person’s behavior as rational or irrational is contingent on us having all relevant information that underlies that behavior, and it’s not obvious that we’re even able to get that information most of the time.&lt;/p&gt;
+
+&lt;p&gt;For starters, that same information might be opaque for the person who does the behavior. Grandma says that she goes to church to look upon the face of God but the true reason might be that all her friends are there on Sundays and she enjoys their presence and the routine. Less charitable people might insist that her going to church is irrational on her part because God doesn’t exist so she’s only losing her time, but spending time with her friends is reason enough to go to church.&lt;/p&gt;
+
+&lt;p&gt;Curse of knowledge problems also arise when assessing context. Consider two persons going on a diet but one believes a low-fat diet is the best tool for the job while the other believes a low-carb one is where its at. Which one of these is the irrational belief? Even if one is indeed correct while the other is not, I’m not sure acting on one’s beliefs, even if they turn out to be factually wrong, is irrational, but a zealous low-carb dieter might believe the low-fat dieter to be irrational in his beliefs and vice-versa.&lt;/p&gt;
+
+&lt;p&gt;This does not mean that there is no such thing as irrational behavior, as the first example of choosing one dollar versus two dollars shows. The point is that in assessing another person’s behavior as irrational or rational, we are prone to committing errors in thinking by assuming that what we know is all there is to know. Doug wasn’t being irrational, quite the contrary, but upon seeing Doug we couldn’t know the context behind that decision so we default on the explanation that that decision is not a rational decision on his part. It’s possible that we will be correct in our assessment most of the time since it’s unlikely that every Doug out there is eating chocolate croissants because it’s their cheat day (or maybe cheat day is every day), but this just means that we must think probabilistically, that while we may be correct in our assessment, it’s entirely possible that we’re wrong.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/articles/irrationalityisintheeyeofthebeholder</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/irrationalityisintheeyeofthebeholder</guid>
+        
+        <category>Rationality</category>
+        
+        <category>Ideas</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Theory of Hypocrisy</title>
+        <description>&lt;p&gt;Joe, Bea, and Greg need to decorate the tent for the big party later that night. Joe is doing his share of the work, but when he looks over his shoulder he sees Bea and Greg drinking a beer and having a good time. Joe is pissed.&lt;/p&gt;
+
+&lt;p&gt;“Hey you two, do you expect me to all of this by myself?”&lt;/p&gt;
+
+&lt;p&gt;“Relax”, Bea says, “we’ve got time.”&lt;/p&gt;
+
+&lt;p&gt;“People are due to arrive in 2 hours and we still have all of this to hang from the ceiling. If you guys don’t start helping me do this I’ll quit and the party will suck.”&lt;/p&gt;
+
+&lt;p&gt;“Fine Joe, jeez, you can be such a hardass sometimes.”&lt;/p&gt;
+
+&lt;p&gt;Bea and Greg start doing their fair share of the work. Soon however, Greg notices something.&lt;/p&gt;
+
+&lt;p&gt;“Hey Bea, have you seen Joe?”&lt;/p&gt;
+
+&lt;p&gt;“I think he’s out back.”&lt;/p&gt;
+
+&lt;p&gt;Greg finds Joe sitting in a chair playing with his phone.&lt;/p&gt;
+
+&lt;p&gt;“Can’t believe this. You lecture us about doing our work and yet here you are like it’s nothing. Hypocrite.”&lt;/p&gt;
+
+&lt;p&gt;The party was a success
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;By definition, an hypocrite is someone who acts in contradiction to his stated beliefs. Joe is an hypocrite. He scolded Bea and Greg for not doing their fair share of the work yet, after getting them to work, he decided that the rules didn’t apply to him.&lt;/p&gt;
+
+&lt;p&gt;Each one of us can recognize an hypocrite, and each one of us can be, or has been, an hypocrite. That this behavior, and our capability to identify it, seems universal fascinates me.&lt;/p&gt;
+
+&lt;p&gt;Human behavior doesn’t exist in a vacuum. Everyone who has read a little bit of evolutionary psychology knows that. Some behaviors arise from evolutionary pressures to ensure our success, in evolutionary terms, despite those constraints. An example would be how the differing burdens of siring a child in males and females shaped the mating strategies of each sex.&lt;/p&gt;
+
+&lt;p&gt;I hypothesize hypocrisy was woven from the same evolutionary cloth. Our success as a species was due to our &lt;a href=&quot;https://www.amazon.com/Ultrasociety-Years-Humans-Greatest-Cooperators-ebook/dp/B0185P69LU/ref=sr_1_4?ie=UTF8&amp;amp;qid=1495313617&amp;amp;sr=8-4&amp;amp;keywords=peter+turchin&quot;&gt;ability to cooperate in large groups&lt;/a&gt;, and one problem that must be solved to sustain large-scale cooperation is the free rider problem. A free rider problem arises when an individual benefits from the resources and goods that a group is able to procure without having contributed to it. This poses a problem for cooperation because if everyone decides to coast on the backs of others, then nothing gets done. Developing solutions that bring the number of free riders to sustainable levels is of paramount importance to any group if it is to be successful.&lt;/p&gt;
+
+&lt;p&gt;Yet the needs of the group can indeed be different from those of the individuals. The free rider problem exists precisely because it is advantageous for the individual to not put in the work and still get the rewards. Why risk your life bringing a mammoth down? The others can do it without you and you still get to eat. You can’t beat that. Yet the individual must make sure that the group goes through with the motions that get the reward. No one’s getting any mammoth if no one goes out to kill him.&lt;/p&gt;
+
+&lt;p&gt;Thus hypocrisy. Joe wants the tent to be decorated in time because a successful party raises him in status among his social group. When he notices that he alone is working he gets furious because his friends are coasting on his hard work. He then uses his rhetorical and argumentative powers to get his friends into doing the work that they should be doing, thus ensuring their cooperation. Yet now that they are cooperating, he sees an opportunity to dodge his own share of the work, which if he is able to do until the tent is fully decorated means that he gets the gains without putting in much work. Of course then Greg is onto him and in the end the three of them decorate the tent quickly and have a blast in the party.&lt;/p&gt;
+
+&lt;p&gt;So this free rider problem gave rise to at least two different modules. One is the behavior itself, the shirking off of one’s share of the work while retaining a share of the rewards, i.e. being a free rider. The other is not only the ability to identify when another person is slacking off, but the cultural environment where that is recognized as wrong. The first is an individual behavior, the second a cultural response.&lt;/p&gt;
+
+&lt;p&gt;I hypothesize one would find a concept similar to hypocrisy in every culture. Perhaps those studying &lt;a href=&quot;https://www.edge.org/conversation/joseph_henrich-how-culture-drove-human-evolution&quot;&gt;cultural evolution&lt;/a&gt; can tell me if I’m wrong or not, but I find it hard to imagine that other cultures wouldn’t have some variation on the idea of hypocrisy as a cultural concept to identify free riders, and thus labeled as wrong to ensure full cooperation. It seems to me that this has the qualities necessary to pass on through the generations as something that increases group fitness (of course there might be other ways to solve this problem, hypocrisy is just one of them, and not a costly one at that.)&lt;/p&gt;
+
+&lt;p&gt;This theory of mine also explains why each one of us recognizes that hypocrisy is bad, and yet still engage in it from time to time. It pays to be an hypocrite. If no one finds out.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I haven’t read &lt;a href=&quot;http://press.princeton.edu/titles/9271.html&quot;&gt;Robert Kurzban’s Why Everyone (Else) is a Hypocrite&lt;/a&gt;. I wouldn’t be surprised if it includes something similar to the theory here presented, or a much better one at that&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 May 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/articles/atheoryofhypocrisy</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/atheoryofhypocrisy</guid>
+        
+        <category>Cultural Evolution</category>
+        
+        <category>Ideas</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Periods of History Niall Ferguson Thinks You Should Learn About</title>
+        <description>&lt;p&gt;&lt;label for=&quot;margin-note-id&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;margin-note-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;Random thought when drinking &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Niall Ferguson, in his recent lecture &lt;a href=&quot;https://www.youtube.com/watch?v=7WXNF6Vy07A&quot;&gt;&lt;em&gt;The Decline and Fall of History&lt;/em&gt;&lt;/a&gt;, when talking about the intellectual paucity of current history major’s course offerings, lists the periods of history he submits should not be omitted in one’s education. I figured it would be helpful to have a list of books covering those topics for me to go through so I am sharing the list I’ve come up with..&lt;/p&gt;
+
+&lt;p&gt;Note that I have not read any of these, I am choosing based solely on whether they look authoritative, have been recommended by someone who’s judgment I trust, or appear in the r/AskHistorians book list.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Any period of British history&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/English-Their-History-Robert-Tombs/dp/1101874767&quot;&gt;The English and Their History by Robert Tombs &lt;/a&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/englishandtheirhistory.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Reformation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Reformation-History-Diarmaid-MacCulloch/dp/014303538X&quot;&gt;Reformation : Europe's House Divided 1490-1700 &lt;/a&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/reformation.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Scientific Revolution&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Invention-Science-History-Scientific-Revolution/dp/006175952X&quot;&gt; The Invention of Science: A New History of the Scientific Revolution by David Wootton &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/theinventionofscience.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Enlightenment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Dream-Enlightenment-Rise-Modern-Philosophy-ebook/dp/B016CAJIZO&quot;&gt;The Dream of Enlightenment: The Rise of Modern Philosophy by Anthony Gottlieb&lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/thedreamofenlightenment.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The American Revolution&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/1776-1787-Published-Omohundro-Institute-Williamsburg-ebook/dp/B004OEINIE&quot;&gt; The Creation of the American Republic, 1776-1787 by Gordon S. Wood &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/creationoftheamericanrepublic.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The French Revolution&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Liberty-Death-Revolution-Peter-McPhee/dp/0300189931/ref=asap_bc?ie=UTF8&quot;&gt; Liberty or Death: The French Revolution by Peter Mcphee &lt;/a&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/libertyordeath.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;US Constitution&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Americas-Constitution-Akhil-Reed-Amar/dp/0812972724/&quot;&gt; America's Constitution: A Biography by Akhil Reed Amar &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/americasconstitution.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Industrial Revolution&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Industrial-Revolution-Perspective-Approaches-Economic/dp/0521687853&quot;&gt; The British Industrial Revolution in Global Perspective by Robert Allen &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/thebritishindustrialrevolutioninglobalperspective.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Enlightened-Economy-Economic-History-1700-1850/dp/0300189516/&quot;&gt; The Enlightened Economy by Joel Mokyr  &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/theenlightenedeconomy.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The American Civil War&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Savage-War-Military-History-Civil/dp/0691169403&quot;&gt; A Savage War by Williamson Murray &amp;amp; Waine Wei-Siang Hsieh &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/asavagewar.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The German Unification&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Iron-Kingdom-Downfall-Prussia-1600-1947/dp/0674031962&quot;&gt; Iron Kingdom: The Rise and Downfall of Prussia 1600-1947 by Christopher Clark &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/ironkingdom.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;World War One&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/First-World-War-New-History-ebook/dp/B00FCAW8E4&quot;&gt; The First World War by Hew Strachan &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/thefirstworldwar.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Russian Revolution&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Revolutionary-Russia-1891-1991-Orlando-Figes-ebook/dp/B00FILC2DO/&quot;&gt; Revolutionary Russia: 1891-1991 by Orlando Figes &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/revolutionaryrussia.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Great Depression&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Freedom-Fear-American-Depression-1929-1945/dp/0195144031&quot;&gt; Freedom from Fear by David M. Kennedy &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/freedomfromfear.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rise of Fascism&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/1400033918/&quot;&gt; The Anatomy of Fascism by Robert O. Paxton &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/anatomyoffascism.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The 3rd Reich&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Hitlers-Empire-Nazis-Ruled-Europe/dp/014311610X&quot;&gt; Hitler's Empire: How The Nazis Rules Europe by Mark Mazower &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/hitlersempire.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;World War Two&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/World-Arms-Global-History-War/dp/0521618266&quot;&gt; A World at Arms: A Global History of World War II by Gerhard L. Weinberg  &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/aworldatarms.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Decolonization&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Decolonization-Very-Short-Introduction-Introductions/dp/0199340498&quot;&gt; Decolonization: A Very Short Introduction by Dane Kennedy  &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/decolonization.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cold War&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Global-Cold-War-Arne-Westad-ebook/dp/B00AKE1S1G&quot;&gt; The Global Cold War by Odd Arne Westad  &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/theglobalcoldwar.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The History of Israel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Israel-History-Martin-Gilbert/dp/0688123635&quot;&gt; Israel: A History by Martin Gilbert  &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/israel.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;European integration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://www.amazon.com/Postwar-History-Europe-Since-1945/dp/0143037757&quot;&gt; Postwar: A History of Europe Since 1945  &lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/niall_historybooks/postwar.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/center&gt;
+</description>
+        <pubDate>Mon, 12 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/articles/niallhistorybooks</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/niallhistorybooks</guid>
+        
+        <category>History</category>
+        
+        <category>Books</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
