@@ -6,6 +6,7 @@ comments: true
 tags: [History, Books]
 ---
 
+{% marginnote "margin-note-id" "Random thought when drinking" %}
 
 Niall Ferguson, in his recent lecture [*The Decline and Fall of History*](https://www.youtube.com/watch?v=7WXNF6Vy07A), when talking about the intellectual paucity of current history major's course offerings, lists the periods of history he submits should not be omitted in one's education. I figured it would be helpful to have a list of books covering those topics for me to go through so I am sharing the list I've come up with..
 
