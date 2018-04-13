@@ -6,6 +6,8 @@ comments: true
 tags: [Rationality, Ideas]
 ---
 
+{% marginnote "margin-note-id" "Random thought when drinking" %}
+
 What does it mean for a behavior or choice to be irrational?
 
 A simple example: a person is given the choice between receiving one or two dollars and chooses to receive one dollar. Was her choice irrational? Common sense dictates that it was. Now a more difficult one: An overweight person has decided that he wants to lose weight and you see him eating a chocolate croissant. Is this behavior on that person’s part irrational?
