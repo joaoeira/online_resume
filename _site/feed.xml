@@ -5,13 +5,15 @@
     <description>A Jekyll theme for content-rich sites</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Apr 2018 09:52:12 -0400</pubDate>
-    <lastBuildDate>Wed, 11 Apr 2018 09:52:12 -0400</lastBuildDate>
+    <pubDate>Fri, 13 Apr 2018 12:56:39 -0400</pubDate>
+    <lastBuildDate>Fri, 13 Apr 2018 12:56:39 -0400</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>(Ir)rationality is in the Eye of the Beholder</title>
-        <description>&lt;p&gt;What does it mean for a behavior or choice to be irrational?&lt;/p&gt;
+        <description>&lt;p&gt;&lt;label for=&quot;margin-note-id&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;margin-note-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;Random thought when drinking &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;What does it mean for a behavior or choice to be irrational?&lt;/p&gt;
 
 &lt;p&gt;A simple example: a person is given the choice between receiving one or two dollars and chooses to receive one dollar. Was her choice irrational? Common sense dictates that it was. Now a more difficult one: An overweight person has decided that he wants to lose weight and you see him eating a chocolate croissant. Is this behavior on that person’s part irrational?&lt;/p&gt;
 
@@ -108,9 +110,7 @@
     
       <item>
         <title>The Periods of History Niall Ferguson Thinks You Should Learn About</title>
-        <description>&lt;p&gt;&lt;label for=&quot;margin-note-id&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;margin-note-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;Random thought when drinking &lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Niall Ferguson, in his recent lecture &lt;a href=&quot;https://www.youtube.com/watch?v=7WXNF6Vy07A&quot;&gt;&lt;em&gt;The Decline and Fall of History&lt;/em&gt;&lt;/a&gt;, when talking about the intellectual paucity of current history major’s course offerings, lists the periods of history he submits should not be omitted in one’s education. I figured it would be helpful to have a list of books covering those topics for me to go through so I am sharing the list I’ve come up with..&lt;/p&gt;
+        <description>&lt;p&gt;Niall Ferguson, in his recent lecture &lt;a href=&quot;https://www.youtube.com/watch?v=7WXNF6Vy07A&quot;&gt;&lt;em&gt;The Decline and Fall of History&lt;/em&gt;&lt;/a&gt;, when talking about the intellectual paucity of current history major’s course offerings, lists the periods of history he submits should not be omitted in one’s education. I figured it would be helpful to have a list of books covering those topics for me to go through so I am sharing the list I’ve come up with..&lt;/p&gt;
 
 &lt;p&gt;Note that I have not read any of these, I am choosing based solely on whether they look authoritative, have been recommended by someone who’s judgment I trust, or appear in the r/AskHistorians book list.&lt;/p&gt;
 
