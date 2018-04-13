@@ -5,13 +5,13 @@
     <description>A Jekyll theme for content-rich sites</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Apr 2018 12:56:39 -0400</pubDate>
-    <lastBuildDate>Fri, 13 Apr 2018 12:56:39 -0400</lastBuildDate>
+    <pubDate>Fri, 13 Apr 2018 12:58:03 -0400</pubDate>
+    <lastBuildDate>Fri, 13 Apr 2018 12:58:03 -0400</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>(Ir)rationality is in the Eye of the Beholder</title>
-        <description>&lt;p&gt;&lt;label for=&quot;margin-note-id&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;margin-note-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;Random thought when drinking &lt;/span&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;label for=&quot;margin-note-id&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;margin-note-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;Random thought when drinking &lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;What does it mean for a behavior or choice to be irrational?&lt;/p&gt;
 

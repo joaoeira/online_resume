@@ -6,7 +6,7 @@ comments: true
 tags: [Rationality, Ideas]
 ---
 
-{% marginnote "margin-note-id" "Random thought when drinking" %}
+{% sidenote "margin-note-id" "Random thought when drinking" %}
 
 What does it mean for a behavior or choice to be irrational?
 
